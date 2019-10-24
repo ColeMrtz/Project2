@@ -10,3 +10,4 @@ VERSION or DATE: Oct. 1, 2019
 HOW TO START THIS PROJECT: Compile & run
 AUTHORS: Cole Mertz
 USER INSTRUCTIONS:
+Use the TestEnvironment class to utilize methods of the Concert class, JUnit test verifies all methods work as anticipated. JUnit test provided by Jerry Scripps.
